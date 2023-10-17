@@ -1,6 +1,6 @@
 # My Bookstore - Frontend
 
-Welcome to the frontend of our online bookstore application, crafted using React and Redux. Our application is designed to empower users to explore, search for, and purchase their favorite books.
+Welcome to the frontend of online bookstore application, crafted using React and Redux. Our application is designed to empower users to explore, search for, and purchase their favorite books.
 
 ## Key Features
 
@@ -16,7 +16,7 @@ Our frontend leverages the following technologies:
 - **React.js:** A versatile JavaScript library renowned for crafting engaging user interfaces.
 - **Redux:** A Predictable State Container for JavaScript applications, enhancing the application's predictability and manageability.
 - **React Router:** Ensures declarative routing for our React application, simplifying navigation.
-- **Material UI:** We've embraced this popular React UI framework to provide a modern and visually appealing user experience.
+- **Material UI:** I've embraced this popular React UI framework to provide a modern and visually appealing user experience.
 
 ## Project Structure
 
@@ -31,7 +31,7 @@ Get acquainted with the project's structure:
 Before diving in, ensure you have the following prerequisites in place:
 
 - **Node.js and npm:** Make sure you have the latest versions installed to enable seamless project setup.
-- **Operating System:** Our application is compatible with Windows, Linux, and macOS, so any of these will do just fine.
+- **Operating System:** Application is compatible with Windows, Linux, and macOS, so any of these will do just fine.
 
 ## Installing My Bookstore
 
@@ -39,7 +39,7 @@ To set up My Bookstore, adhere to the following steps:
 
 1. **Clone the repository:** Begin by creating a local copy of our frontend codebase with the following command:
     ```bash
-    git clone https://github.com/PRANAV696969/Questt-frontend.git
+    git clone https://github.com/Abhay7apk/Questt_Assignment_Frontend_Part.git
     ```
 
 2. **Navigate to the project directory:** Move into the project directory using the following command:
